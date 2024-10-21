@@ -1,6 +1,6 @@
 # Greetings Traveller
 
-### A pure math person turning into bioinformatician
+### I am mathematician by training, but I have years of experience as a data scientist
 
 - I love algebraic combinatorics and chaos theory and its applications on DNA complexity & grammar.
 - I have worked 2 years as a research scientist.
