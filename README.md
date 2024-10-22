@@ -1,6 +1,6 @@
 # Hi!
 
-### I am Nikol. Mathematician by training, but I have years of experience as a data scientist
+#### I am Nikol. Mathematician by training, but I have years of experience as a data scientist
 
 - I love algebraic combinatorics and chaos theory and its applications on DNA complexity & grammar.
 - I have worked 2 years as a research scientist.
