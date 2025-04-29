@@ -1,6 +1,6 @@
 # Hi!
 
-#### I am Nikol.
+#### I am Nikol. PhD Candidate at Penn.
 
 - I love molecular genetics, evolutionary biology and chaos theory and its applications on DNA-Protein interaction complexity & grammar.
 - I have worked 2 years as a research scientist.
